@@ -86,7 +86,7 @@ rachit = {
 
 <div align="center">
 
-[![ML Project](https://github-readme-stats.vercel.app/api/pin/?username=rachit540&repo=YOUR_ML_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9)](https://github.com/rachit540/Colour-Detection-ML-Project)
+[![ML Project](https://github-readme-stats.vercel.app/api/pin/?username=rachit540&repo=https://github.com/rachit540/Color-Detection-ML-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9)](https://github.com/rachit540/Colour-Detection-ML-Project)
 &nbsp;&nbsp;
 [![Website Project](https://github-readme-stats.vercel.app/api/pin/?username=rachit540&repo=YOUR_WEBSITE_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9)](https://github.com/rachit540/MEDQR)
 
